@@ -21,3 +21,7 @@ get('abuot', function() {
 
 
 //Whatever logic
+
+get('reporting', function() {
+  return 'Report Page';
+});
