@@ -21,3 +21,7 @@ get('about', function() {
 
 
 //Whatever logic
+
+get('reporting', function() {
+  return 'Report Page';
+});
